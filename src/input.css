@@ -11,3 +11,11 @@
         padding-bottom: 5%;
     }
 }
+
+.score{
+    padding:10%;
+    width: 50%;
+    margin: auto;
+    background:linear-gradient(to bottom, rgb(39, 39, 247), rgb(79, 79, 255));
+    border-radius: 100%;
+}
